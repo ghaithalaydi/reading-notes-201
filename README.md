@@ -3,7 +3,7 @@
 **This document includes all the inclass notes taken, and any remarks made from the provided reading material**
 
 *Table of content*
-+ (Note 1)[https://ghaithalaydi.github.io/reading-notes-201/]
++ (Note 1)[class-01.md]
 + (Note 2)[https://link1.github]
 + (Note 3)[https://link1.github]
 + (Note 4)[https://link1.github]
