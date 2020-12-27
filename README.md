@@ -4,7 +4,7 @@
 
 *Table of content*
 + (Note 1)[https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-01.md]
-+ (Note 2)[https://link1.github]
++ (Note 2)[https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-02.md]
 + (Note 3)[https://link1.github]
 + (Note 4)[https://link1.github]
 + (Note 5)[https://link1.github]
