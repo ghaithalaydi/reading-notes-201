@@ -18,4 +18,4 @@
 ## Chapter 18
 + This chapter talks about how to create your website process flow and general design enhancmenets to assure high afficacy
 + You should first consider your website as your product, in a sense that you need to identify the why how when and what for it, this will yield a website map and a wire frame design 
-+ using cosmitcs can enhance customer/client experience by using specific layout and color schemes when applicable 
++ using cosmitics can enhance customer/client experience by using specific layout and color schemes when applicable 
