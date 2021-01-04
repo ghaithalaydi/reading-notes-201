@@ -9,7 +9,7 @@
 + [Note 4](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-04.md)
 + [Note 5](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-05.md)
 + [Note 6](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-06.md)
-+ [Note 7](https://link1.github)
++ [Note 7](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-07.md)
 + [Note 8](https://link1.github)
 + [Note 9](https://link1.github)
 + [Note 10](https://link1.github)
