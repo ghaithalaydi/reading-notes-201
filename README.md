@@ -14,7 +14,7 @@
 + [Note 9](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-09.md)
 + [Note 10](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-10.md)
 + [Note 11](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-11.md)
-+ [Note 12](https://link1.github)
++ [Note 12](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-12.md)
 + [Note 13](https://link1.github)
 + [Note 14](https://link1.github)
 + [Note 15](https://link1.github)
