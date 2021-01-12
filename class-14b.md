@@ -1,0 +1,3 @@
+# Class 14b Reading notes
++ In this very interesting read, a deeper dive into the experience of one of the giants in the IT domain is previewed when it comes to team building and how to create the dream or A team. After reading this article, I would come to the same conclusion about teams and organizational succsess, as the article mentions that they have reached the same conclusion as the one of good managers (without a needc for a 3 years study) had initially, emotional safety and stability plays a major role. 
++ Also it is very important to note that in such scans or studies it is really not dependant on the sample characteristics but rather the groups interconnectivty, and last thing I quote " the building block of an org is a team" rather than an employee!!
