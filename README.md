@@ -16,6 +16,6 @@
 + [Note 11](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-11.md)
 + [Note 12](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-12.md)
 + [Note 13](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-13.md)
-+ [Note 14](https://link1.github)
++ [Note 14](https://github.com/ghaithalaydi/reading-notes-201/blob/main/class-14a.md)
 + [Note 15](https://link1.github)
 
